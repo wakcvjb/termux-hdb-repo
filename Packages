@@ -6,6 +6,6 @@ Installed-Size: 20
 Depends: python
 Filename: hdb_1.0.0_all.deb
 Size: 1832
-MD5sum: 00000000000000000000000000000000
+MD5sum: 4bd6e33f95a707075fa711e08cefa2df
 SHA256: 0e178a572377071b2b1675511f4df42a5f1dde6ea5499118403ef4edd8c72187
 Description: HKS Debug Bridge
