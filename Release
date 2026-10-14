@@ -1,0 +1,6 @@
+Origin: termux-hdb-repo
+Label: termux-hdb-repo
+Suite: stable
+Codename: termux
+Architectures: all
+Components: main
